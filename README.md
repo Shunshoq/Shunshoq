@@ -55,4 +55,3 @@ I’m passionate about all things related to computers and technology, from hard
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shunshoq&layout=compact)](https://github.com/Shunshoq)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Shunshoq.Shunshoq)](https://shunshoq.github.io/)
