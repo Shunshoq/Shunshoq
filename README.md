@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="https://shunshoq.github.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
-</p>
-
-<h3 align="center">
+<h1 align="center">
 Hi there, I'm <a href="https://shunshoq.github.io/" target="_blank" rel="noreferrer">Sunny Prince</a> 👋
-</h3>
+</h1>
 
 <h2 align="center">
 I'm a Computer Science Student 💻, Gaming Enthusiast 🎮, and Tech Buff 🖥!
