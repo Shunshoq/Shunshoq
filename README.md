@@ -13,7 +13,7 @@ I’m passionate about all things related to computers and technology, from hard
 <a href="https://www.linkedin.com/in/sunnyp2050/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Sunny Prince | LinkedIn" width="21px"/></a>
 
 </br>
-- 💬 Feel free to reach out to me for any questions, feedback, or collaboration ideas!
+- 💬 Feel free to reach out to me to connect.
 
 ## 🔭 I'm currently working on
 
@@ -24,10 +24,8 @@ I’m passionate about all things related to computers and technology, from hard
 
 ## 🌱 I'm currently learning
 
-- 📱 **React Native**
-- **Firebase**
-- **React Context API**
-- **Styled Components**  
+- 📱 **Unreal Engine**
+  
 
 ## 💼 Technical Skills
 
@@ -36,7 +34,7 @@ I’m passionate about all things related to computers and technology, from hard
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
+
 
 </br>
 
@@ -50,12 +48,6 @@ I’m passionate about all things related to computers and technology, from hard
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=visualstudio&color=5C2D91)
 
-## 📝 Latest Blog Posts
-
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
 
 ## 📈 GitHub Stats 
 
