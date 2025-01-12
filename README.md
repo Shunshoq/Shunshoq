@@ -11,7 +11,6 @@ I’m passionate about all things related to computers and technology, from hard
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/sunnyp2050/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Sunny Prince | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Sunny Prince | Instagram" width="21px"/></a>
 <a href="https://github.com/Shunshoq"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/github.svg" alt="Sunny Prince | GitHub" width="21px"/></a>
 </br>
 - 💬 Feel free to reach out to me for any questions, feedback, or collaboration ideas!
