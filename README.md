@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://shunshoq.github.io/" target="_blank" rel="norefer
 </h1>
 
 <h2 align="center">
-I'm a Computer Science Student, Gaming Enthusiast, and Tech Buff
+I'm a Computer Science Student, Musician, and Gamer
 </h2>
 
 I’m passionate about all things related to computers and technology, from hardware to software development. I enjoy exploring machine learning, web development, and gaming hardware.
