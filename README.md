@@ -17,14 +17,15 @@ I’m passionate about all things related to computers and technology, from hard
 
 ## I'm currently working on
 
-- Developing my game **"Mystery Maze"** (C++ with SFML)
+- ~~Developing my game **"Mystery Maze"** (C++ with SFML)~~
 - My **portfolio website** at [shunshoq.github.io](https://shunshoq.github.io/)
 - Expanding my knowledge in **machine learning**
 - Exploring **web development technologies** like React
 
 ## I'm currently learning
 
-- **Unreal Engine**
+- ~~**Unreal Engine**~~
+- 
 
 ## Technical Skills
 
