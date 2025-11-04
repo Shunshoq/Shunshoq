@@ -46,8 +46,8 @@
 
 ### 📨 Contact
 - Email: hello@limitedstudios.club  
-- LinkedIn: <a href="https://www.linkedin.com/in/sunchoeh" target="_blank">/in/sunchoeh</a> (placeholder)
-- Discord: Sunchoeh#0001 (placeholder)
+- LinkedIn: <a href="https://www.linkedin.com/in/sunnyp2050/" target="_blank">/in/sunchoeh</a> (placeholder)
+- Discord: sshloopy (placeholder)
 
 ---
 
