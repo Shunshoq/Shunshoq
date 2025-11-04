@@ -1,54 +1,54 @@
-<h1 align="center">
-Hi there, I'm <a href="https://shunshoq.github.io/" target="_blank" rel="noreferrer">Sunny</a>
-</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/LimitedStudios-RealVision-black?style=for-the-badge" alt="LimitedStudios"/>
+  <img src="https://img.shields.io/badge/UK-Computer%20Science-222?style=for-the-badge" alt="UK CS"/>
+</p>
 
-<h2 align="center">
-I'm a Computer Science Student, Musician, and Gamer
-</h2>
+<h1 align="center">Hi, I'm Sunny (Sunchoeh Prince) 👋</h1>
+<p align="center">CS @ University of Plymouth • Builder of clean systems • Gaming & hardware enjoyer</p>
 
-I’m passionate about all things related to computers and technology, from hardware to software development. I enjoy exploring machine learning, web development, and gaming hardware.
+---
 
-### Connect with me:
+### 🚀 What I’m focused on
+- Building long-term, real projects under **LimitedStudios** & **RealVision**
+- Mobile + backend systems (Android, REST/SQLite), data structures & algorithms
+- Clean UI/UX and performant code (minimal, modern, maintainable)
 
-<a href="https://discord.com/users/sshloopy"><img align="left" src="https://img.shields.io/badge/Discord-sshloopy-informational?style=flat&logo=discord&color=5865F2" alt="Sunny Prince | Discord" width="100px"/></a>
+### 🧰 Tech I use
+<p>
+  <img src="https://img.shields.io/badge/Java-181717?style=flat&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Kotlin-181717?style=flat&logo=kotlin" />
+  <img src="https://img.shields.io/badge/Android-181717?style=flat&logo=android" />
+  <img src="https://img.shields.io/badge/SQLite-181717?style=flat&logo=sqlite" />
+  <img src="https://img.shields.io/badge/JavaScript-181717?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-181717?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/React-181717?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Python-181717?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/Node.js-181717?style=flat&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/Docker-181717?style=flat&logo=docker" />
+</p>
 
-</br>
-- Feel free to reach out to me to connect.
+### 🧩 Highlights
+- 📱 **Restaurant Management App** — Android (Kotlin/Java), RESTful API, local **SQLite**, notifications
+- 🕹 **RealVision** — sim-racing visuals & tooling; community-driven enhancements
+- 🗂 **Data & Scripts** — EXIF/metadata pipelines, automation, infra notes
 
-## I'm currently working on
+### 🔗 Featured Work
+- 🧭 Portfolio: <a href="https://limitedstudios.club" target="_blank">limitedstudios.club</a>  
+- 🛠 Projects: <a href="https://github.com/shunshoq?tab=repositories" target="_blank">github.com/shunshoq</a>
 
-- ~~Developing my game **"Mystery Maze"** (C++ with SFML)~~
-- My **portfolio website** at [shunshoq.github.io](https://shunshoq.github.io/)
-- Expanding my knowledge in **machine learning**
-- Exploring **web development technologies** like React
+### 📊 Stats (for fun)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shunshoq&show_icons=true&hide_border=true&theme=dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunshoq&layout=compact&hide_border=true&theme=dark" />
+</p>
 
-## I'm currently learning
+### 📨 Contact
+- Email: hello@limitedstudios.club  
+- LinkedIn: <a href="https://www.linkedin.com/in/sunchoeh" target="_blank">/in/sunchoeh</a> (placeholder)
+- Discord: Sunchoeh#0001 (placeholder)
 
-- ~~**Unreal Engine**~~
-- 
+---
 
-## Technical Skills
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C)
-
-</br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-
-</br>
-
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=visualstudio&color=5C2D91)
-
-## GitHub Stats 
-
-[![Sunny's github stats](https://github-readme-stats.vercel.app/api?username=Shunshoq)](https://github.com/Shunshoq)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shunshoq&layout=compact)](https://github.com/Shunshoq)
+> *“Figure the small things out—ship, learn, iterate.”*
